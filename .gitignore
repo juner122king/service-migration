@@ -1,0 +1,11 @@
+# Local deployment config
+target.env
+*.tar.gz
+
+# Extracted/offline artifacts
+staging/
+service-migration-bundle/
+service-migration-offline/
+
+# Rendered local files
+*.rendered
